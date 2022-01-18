@@ -1,7 +1,7 @@
-# web-server-htb
+# Web-server-htb
 webserver for testing hack the box's web requests module
 
-# available rest endpoints
+# Available rest endpoints
 
 Web-server-htb is running locally and listening on port 8080. Available endpoints are:
 
